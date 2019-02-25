@@ -1,0 +1,24 @@
+{
+  "name": "loopback-enum-mixin",
+  "version": "1.0.0",
+  "description": "Loopback Mixin implementing server-side enum validations for model properties.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanferr/loopback-enum-mixin.git"
+  },
+  "keywords": [
+    "loopback",
+    "enum",
+    "mixin"
+  ],
+  "author": "Renan Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renanferr/loopback-enum-mixin/issues"
+  },
+  "homepage": "https://github.com/renanferr/loopback-enum-mixin#readme"
+}
